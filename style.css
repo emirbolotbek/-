@@ -1,0 +1,11 @@
+header {
+    background-color: black;
+}
+footer {
+    background-color: black;
+    color: white
+}
+table{
+    border: 5px dotted black
+    ;
+}
